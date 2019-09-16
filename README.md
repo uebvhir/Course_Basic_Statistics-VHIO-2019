@@ -1,4 +1,4 @@
-# Course_Basic_Statistics_2019
-Repository of contents for Basic Statistics for Biomedical Research Course, Edition 2019
- Just start using html
+# Course_Basic_Statistics-VHIO-2019
+Repository of contents for Basic Statistics for Biomedical Research Course, "VHIO" Edition 2019
+
  
