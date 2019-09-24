@@ -15,5 +15,7 @@ maxLength <- 500
 for (i in 1:6){
   simDF[,i] <- c(listSamples[[i]], 
                  rep(NA,maxLength-length(listSamples[[i]])))
-}
-               
+
+  if (i>3) simDF[,i] <- as.factor(simDF[,i])
+  }
+
